@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center"><img width="125" src="https://komarev.com/ghpvc/?username=artiicpanda&style=flat-square" alt="artiicpanda"></p>
+<p align="center"><a href="https://github.com/artiicpanda"><img src="https://github-readme-stats.vercel.app/api?username=artiicpanda&show_icons=true&theme=dark"></a></p>
+<p align="center"><a href="https://github.com/artiicpanda"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artiicpanda&theme=dark&layout=compact"></a></p>
